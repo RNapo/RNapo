@@ -1,6 +1,6 @@
 ## Olá eu sou Rodrigo Napoleão, Desenvolvedor FullStack. 
 ### Formado em analise e desenvolvimento de sistemas, apaixonado pelo desenvolvimento tanto front-end quanto back-end.
-### Busco sempre estudar e me especializar em novas tecnologias, atualmente focado na linguagem Python e JS.
+### Busco sempre estudar e me especializar em novas tecnologias, atualmente focado na linguagem Python.
 
 ##
 
